@@ -1,0 +1,13 @@
+*.exe
+*.zip
+*.log
+bin/
+obj/
+*.suo
+*.user
+.vs/
+*.tmp
+source_docengine/
+ref_pomoshnik/
+docengine.zip
+pomoshnik.zip
